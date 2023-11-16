@@ -11,11 +11,23 @@ body
     background-color: var(--BackGround-1);
 }
 /* Header */
-header
-{
-    background: transparent;
-}
-header a 
+header a
 {
     color: var(--TextColor);
+}
+header a:hover
+{
+    color:var(--TextColor) !important;
+}
+.line-1 , .Line-2
+{
+    border-color: var(--TextColor);
+}
+.About-Text h1
+{
+    color: var(--TextColor);
+}
+.swiper-scrollbar
+{
+    color: var(--Border) !important;
 }
