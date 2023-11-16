@@ -1,0 +1,21 @@
+:root 
+{
+    --TextColor : #260A02;
+    --BackGround-1 : #FCF7F7;
+    --BackGround-2 : #E8A999;
+    --Border : #9D442D;
+}
+/* body */
+body 
+{
+    background-color: var(--BackGround-1);
+}
+/* Header */
+header
+{
+    background: transparent;
+}
+header a 
+{
+    color: var(--TextColor);
+}
