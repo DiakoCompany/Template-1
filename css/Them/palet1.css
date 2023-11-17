@@ -3,6 +3,7 @@
     --TextColor : #260A02;
     --BackGround-1 : #FCF7F7;
     --BackGround-2 : #E8A999;
+    --BackGround-3 : #f7f1f2;
     --Border : #9D442D;
 }
 /* body */
@@ -10,15 +11,15 @@ body
 {
     background-color: var(--BackGround-1);
 }
-/* Header */
-header a
+a
 {
-    color: var(--TextColor);
+    color: var(--TextColor) !important;
 }
-header a:hover
+a:hover
 {
     color:var(--TextColor) !important;
 }
+/* Header */
 .line-1 , .Line-2
 {
     border-color: var(--TextColor);
@@ -30,4 +31,24 @@ header a:hover
 .swiper-scrollbar
 {
     color: var(--Border) !important;
+}
+/* Commission */
+#Commission .Layer
+{
+    border-color: var(--Border);
+}
+#Commission .Layer-4
+{
+    background-color: var(--BackGround-2);
+}
+/* Compaign */
+#Compaign 
+{
+    background-color: var(--BackGround-3);
+}
+/* Footer */
+footer
+{
+    background-color: var(--BackGround-2);
+    color: var(--TextColor);
 }
