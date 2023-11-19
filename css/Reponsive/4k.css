@@ -36,7 +36,7 @@
     height: 1010px !important;
     padding: 0 !important;
     margin-left: 0px !important;
-    margin-right: 205px;
+    margin-right: 180px;
     }
     .About-Text
     {
@@ -89,7 +89,7 @@
     }
     .slider
     {
-        margin-right: 300px !important;
+        margin-right: 280px !important;
         border-top-right-radius: 25px;
         border-bottom-right-radius: 25px;
     }
@@ -115,7 +115,7 @@
     #Executive .flag
     {
         margin-top: -100px;
-        width: 1500px;
+        width: 1480px;
         margin-right: 410px;
         padding: 0 !important;
     }
