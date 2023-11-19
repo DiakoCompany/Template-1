@@ -1,0 +1,289 @@
+@media screen and (max-width: 1024px) 
+{
+    /* Header */
+    header 
+    {
+     width: 100%;
+     height: 275px;
+    } 
+    header ul
+     {
+     padding-right: 100px;
+     padding-top: 30px;
+     }
+     header li
+     {
+     margin-left: 30px;
+     font-size: 25px;
+     }
+    /* About */
+    #About
+    {
+    width: 100%;
+    height: 700px;
+    margin-top: -275px;
+    padding: 0px !important;
+    }
+    #About .row
+    {
+    height: 1000px;
+    margin: 0px !important;
+    padding: 0px !important;
+    }
+    .About-Pic
+    {
+    width: 600px !important;
+    height: 800px !important;
+    padding: 0 !important;
+    margin-left: 0px !important;
+    margin-right: 840px;
+    margin-top: -880px !important;
+    }
+    .About-Text
+    {
+    width: 700px !important;
+    margin-right: 100px;
+    }
+    .line-1
+    {
+    width: 500px;
+    height: 1px;
+    border: 2px solid;
+    margin-top: 350px;
+    }
+    .About-Text h1
+    {
+    font-size: 35px;
+    margin-top: 50px;
+    }
+    .Line-2
+    {
+    width: 300px;
+    height: 1px;
+    border: 2px solid;
+    margin-top: 50px;
+    }
+    .About-Text p
+    {
+    font-size: 20px;
+    margin-top: 50px;
+    }
+    /* Activity */
+    #Activity
+    {
+        width: 100%;
+        height: 700px;
+        margin-top: 175px;;
+    }
+    #Activity h2 
+    {
+        font-size: 35px;
+        margin-right: 150px;
+        margin-top: 50px;
+    }
+    .swiper
+    {
+        width: 1100px;
+        height: 650px;
+        margin-top: 50px;
+    }
+    .slider
+    {
+        margin-right: 340px !important;
+        border-top-right-radius: 25px;
+        border-bottom-right-radius: 25px;
+    }
+    #Activity img
+    {
+        width: 1100px !important;
+        height: 650px !important;
+    }
+    /* Executive */
+    #Executive
+    {
+        width: 100%;
+        height: 700px;
+        margin-top: 100px;
+    }
+    #Executive h2 
+    {
+        width: 500px;
+        font-size: 35px;
+        margin-right: 150px;
+        margin-top: 50px;
+    }
+    #Executive .flag
+    {
+        margin-top: -100px;
+        width: 1040px;
+        margin-right: 410px;
+        padding: 0 !important;
+    }
+    #Executive p
+    {
+        width: 500px;
+        font-size: 25px;
+        margin-top: -50px;
+        margin-right: 150px;
+    }
+    #Executive .Pic
+    {
+        width: 900px;
+        height: 500px;
+        margin-top: 50px;
+    }
+    /* Commission */
+    #Commission
+    {
+    width: 100%;
+    height: 700px;
+    margin-top: 150px;
+    }
+    #Commission h2
+    {
+    font-size: 35px;
+    margin-right: 150px;
+    margin-top: 50px;
+    }
+    #Commission .Commission-Info
+    {
+    width: 1000px;
+    height: 600px;
+    margin-right: 75px;
+    margin-top: 50px;
+    padding-top: 75px;
+    }
+    #Commission .Commission-Info p 
+    {
+    margin-top: 30px;
+    margin-right: 125px;
+    font-size: 20px;
+    }
+    #Commission .Layer
+    {
+        width: 350px;
+        height: 450px;
+        border-radius: 25px;
+        border: 2px solid;
+    }
+    #Commission .Layer-1 
+    {
+        margin-top: 65px;
+        margin-right: 1000px;
+    }
+    #Commission .Layer-2
+    {
+        margin-top: 90px;
+        margin-right: 975px;
+    }
+    #Commission .Layer-3
+    {
+        margin-top: 120px;
+        margin-right: 950px;
+    }
+    #Commission .Layer-4
+    {
+        margin-top: 105px;
+        margin-right: 965px;
+    }
+    #Commission img
+    {
+        width: 200px;
+        height: 250px;
+        margin-top: 75px;
+        margin-right: 65px;
+    }
+    /* Compaign */
+    #Compaign 
+    {
+        width: 1300px;
+        height: 500px;
+        margin-top: 50px;
+        margin-right: 5%;
+        border-radius: 25px;
+        padding: 0 !important;
+    }
+    #Compaign h2 
+    {
+        width: 500px;
+        font-size: 40px;
+        margin-right: 50px;
+        padding-top: 25px;
+    }
+    #Compaign .Compaign-Info
+    {
+        width: 350px;
+        height: 600px;
+        margin-right: 50px;
+        border-radius: 25px;
+    }
+    #Compaign .Compaign-Map
+    {
+        width: 500px !important;
+        height: 300px !important;
+        margin-right: 64px;
+        border-radius: 25px;
+    }
+    #Compaign h3 
+    {
+        margin-right: 100px;
+        margin-top: 35px;
+        font-size: 30px;
+    }
+    #Compaign iframe 
+    {
+        width: 825px !important;
+        height: 500px !important;
+        position: absolute !important; 
+        margin-right: 10px;
+        border-radius: 25px;
+    }
+    /* Contact */
+    #Contact
+    {
+        width: 100%;
+        height: 500px;
+        margin-top: 50px;
+    }
+    #Contact h2 
+    {
+        font-size: 35px;
+        margin-right: 150px;
+        margin-top: 50px;
+    }
+    #Contact .flag-2 
+    {
+        width: 1450px;
+    }
+    #Contact .Social-box
+    {
+        width: 800px;
+        height: 500px;
+        margin-top: -300px;
+        padding-right: 200px;
+    }
+    #Contact p
+    {
+        margin-top: 20px;
+        margin-right: 50px;
+        font-size: 15px;
+    }
+    #Contact .Social-Icon
+    {
+        width: 40px;
+        height: 40px;
+        margin-left: 25px;
+    }
+    /* Footer */
+    footer
+    {
+        margin-top: 15px;
+        width: 1450;
+        height: 150px;
+        padding-top: 30px;
+    }
+    footer h4
+    {
+        font-size: 30px;
+    }
+}
