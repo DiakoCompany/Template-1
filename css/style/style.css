@@ -5,11 +5,17 @@ body
 .row
 {
     width: 100% !important;
+    margin: 0px !important;
     padding: 0px !important;
 }
 a 
 {
     text-decoration: none !important;
+}
+/* About */
+.About-Pic
+{
+    border-bottom-right-radius: 25px;
 }
 /* Header */
 header 
